@@ -17,17 +17,6 @@ React.js와 Node.js를 이용해 유기동물 관련 사이트를 만들었습�
 ## 작업 순서
 **초기 세팅**
 - client   
-`npx create-react-app [폴더명]`   
-`npm install axios`   
-`npm install express`   
-`npm install firebase`   
-`npm install geocoder`   
-`npm install moment`   
-`npm install react-icons`   
-`npm install react-kakao-maps-sdk`   
-`npm install react-router-dom`
-`npm install react-redux`  
-`npm install sass`
 
 ```js
 npx create-react-app [폴더명]   
