@@ -15,11 +15,10 @@ React.js와 Node.js를 이용해 유기동물 관련 사이트를 만들었습�
 ## 사이트 바로가기
 
 ## 작업 순서
-**초기 설정**
+**초기 세팅**
 - client   
 `npx create-react-app [폴더명]`   
 `npm install axios`   
-`npm install express`   
 `npm install firebase`   
 `npm install geocoder`   
 `npm install moment`   
@@ -29,8 +28,21 @@ React.js와 Node.js를 이용해 유기동물 관련 사이트를 만들었습�
 `npm install react-redux`  
 `npm install sass`
 
-- server
-``
+- server   
+`npm init -y`
+`npm install express --save`   
+`npm install nodemon --save`   
+`npm install path --save`   
+`npm install mongoose --save`   
+`npm install multer --save`   
+`npm install aws-sdk@2.348.0 --save`   
+`npm install multer-s3@2.10.0 --save`   
+`npm install socket.io --save`   
+`npm install cors --save`
+
+**디자인**
+Figma를 이용해 팀원들과 초기 사이트 디자인을 구상하였습니다.   
+[Figma 사이트]()
 
 ## 사용 기술
 
