@@ -6,7 +6,7 @@ React.js와 Node.js를 이용해 유기동물 관련 사이트를 만들었습�
 
 ## 팀 소개
 |김우주|김희진|권초록|이원영|
-|:---:|:---:|:---:||:---:|
+|:---:|:---:|:---:|:---:|
 |<img width="150px" src="https://avatars.githubusercontent.com/u/144635615?v=4" />|<img width="150px" src="https://avatars.githubusercontent.com/u/144635615?v=4">|<img width="150px" src="https://avatars.githubusercontent.com/u/144635615?v=4">|<img width="150px" src="https://avatars.githubusercontent.com/u/144635615?v=4">|
 |[@GIT](https://github.com/rlanrid)|[@GIT](https://github.com/seoeugene)|[@GIT](https://github.com/yunyoungsik/)|[@GIT](https://github.com/yunyoungsik/)|
 
