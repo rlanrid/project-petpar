@@ -49,5 +49,31 @@ Figma를 이용해 팀원들과 초기 사이트 디자인을 구상하였습니
 ## 기여 방법
 
 ## 트러블 슈팅
+```js
+npm ERR! code ECONNREFUSED
+npm ERR! errno ECONNREFUSED
+npm ERR! FetchError: request to http://localhost:3001/ fail
+npm ERR!     at ClientRequest.<anonymous> (C:\Users\line\Apde_modules\minipass-fetch\lib\index.js:130:14)
+npm ERR!     at ClientRequest.emit (node:events:514:28)
+npm ERR!     at _destroy (node:_http_client:875:13)
+npm ERR!     at onSocketNT (node:_http_client:895:5)
+npm ERR!     at process.processTicksAndRejections (node:int
+npm ERR!  FetchError: request to http://localhost:3001/ fai
+\node_modules\minipass-fetch\lib\index.js:130:14)
+npm ERR!     at ClientRequest.emit (node:events:514:28)
+npm ERR!     at _destroy (node:_http_client:875:13)
+npm ERR!     at onSocketNT (node:_http_client:895:5)
+npm ERR!     at process.processTicksAndRejections (node:internal/process/task_queues:83:21) {
+npm ERR!   code: 'ECONNREFUSED',
+npm ERR!   errno: 'ECONNREFUSED',
+npm ERR!   type: 'system',
+npm ERR!   requiredBy: '.'
+npm ERR! }
+npm ERR!
+npm ERR! If you are behind a proxy, please make sure that the
+npm ERR! 'proxy' config is set properly.  See: 'npm help config'
+
+npm ERR! A complete log of this run can be found in: C:\Users\line\AppData\Local\np
+```
 
 ## 스택
